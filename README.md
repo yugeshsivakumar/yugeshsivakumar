@@ -1,4 +1,4 @@
-## Hi there im Yugesh.S 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋+I'm+Yugesh+S)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshsivakumar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Yugesh_S) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Obvious-Nothing-6001/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23484698) 
@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yugeshsivakumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🎭 Stack Overflow Stats 
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=23484698)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yugeshsivakumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
