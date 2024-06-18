@@ -1,5 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋+I'm+Yugesh+S)
 
+[![](https://visitcount.itsvg.in/api?id=yugeshsivakumar&icon=9&color=3)](https://visitcount.itsvg.in)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshsivakumar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Yugesh_S) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Obvious-Nothing-6001/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23484698) 
 
@@ -13,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yugeshsivakumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-# 🎭 Stack Overflow Stats 
+# 🎭 Stack Overflow Stats
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=23484698)
 
 ## 🏆 GitHub Trophies
@@ -26,7 +29,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=yugeshsivakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yugeshsivakumar&icon=9&color=3)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
