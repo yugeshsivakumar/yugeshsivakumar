@@ -14,12 +14,13 @@
 
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-<!---
-your comment goes here
-and here
-![](https://github-readme-stats.vercel.app/api?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yugeshsivakumar&theme=dark&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugeshsivakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600) -->
+
 # 🎭 Stack Overflow Stats
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=23484698)
 
