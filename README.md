@@ -9,6 +9,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
+![](https://github.com/samolego/samolego/blob/output/github-contribution-grid-snake-dark.svg)
+
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,blender,c,cpp,css,debian,discord,django,docker,figma,firebase,git,github,html,java,js,linux,md,matlab,mongodb,mysql,neovim,notion,obsidian,opencv,powershell,py,pytorch,r,react,replit,stackoverflow,sublime,sklearn,tensorflow,ts,ubuntu,vim,vscode,wordpress,)
 
@@ -34,6 +36,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=yugeshsivakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 
 ---> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
