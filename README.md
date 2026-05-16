@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
-![](https://github.com/samolego/samolego/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](github-contribution-grid-snake-dark.svg)
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=anaconda,bash,blender,c,cpp,css,debian,discord,django,docker,figma,firebase,git,github,html,java,js,linux,md,matlab,mongodb,mysql,neovim,notion,obsidian,opencv,powershell,py,pytorch,r,react,replit,stackoverflow,sublime,sklearn,tensorflow,ts,ubuntu,vim,vscode,wordpress,)
